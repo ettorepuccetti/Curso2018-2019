@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task06",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task06",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task05",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task05",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task03",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task03",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task02",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task02",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task01",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task01",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.App",
+            "args": "",
+            "projectName": "jena"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task00",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "upm.oeg.wsld.jena.Task00",
+            "args": "",
+            "projectName": "jena"
+        }
+    ]
+}

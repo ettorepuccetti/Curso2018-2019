@@ -51,6 +51,6 @@ public class Task02
 		
 		johnSmith.addProperty(FOAF.knows, janeSmith);
 		
-		model.write(System.out, "RDF/XML-ABBREV");
+		model.write(System.out, "TURTLE");
 	}
 }
